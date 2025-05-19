@@ -1,3 +1,3 @@
-# Registro-de-Imagens
+# Computação Gráfica
 
 exercícios para aula de Computação Gráfica
